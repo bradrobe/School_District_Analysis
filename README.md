@@ -4,6 +4,7 @@
 
 Based on information obtained by the school board we were asked to make modification to the original school district analysis.  To uphold the integrity of the state-testing standards we removed data that had the potential to alter the original analysis results.  Upon removing the questionable data, we reran the school district analysis to provide accurate results to assist the school board in their future decision making for the school district.  The image below indicates code used to remove the requested data.
 
+![Image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/school_analysis_code.png)
  
 ## Results:
 •	The district summary indicates slight increases in the % passing of reading, math and overall.
