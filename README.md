@@ -9,12 +9,15 @@ Based on information obtained by the school board we were asked to make modifica
 ## Results:
 •	The district summary indicates slight increases in the % passing of reading, math and overall.
 o	Original District Summary:
+
  
 o	Revised District Summary:
  
 
 •	The school summary indicates dramatic increase for Thomas High School’s % passing of reading, math and overall.  The % overall passing increased from 65% to 90%.
 	Original School Summary:
+
+ ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20School%20Summary.png)
  
 	Revised School Summary:
  
