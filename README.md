@@ -20,7 +20,7 @@ o	Revised District Summary:
  ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20School%20Summary.png)
  
 	Revised School Summary:
- 
+ ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Revised%20School%20Summary.png)
 
 •	Replacing the ninth grader’s math and reading scores placed Thomas High School within the top five performing schools in the district.
 	Top five performing high schools:
