@@ -9,7 +9,7 @@ Based on information obtained by the school board we were asked to make modifica
 ## Results:
 •	The district summary indicates slight increases in the % passing of reading, math and overall.
 o	Original District Summary:
-
+![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20District%20Summary.png)
  
 o	Revised District Summary:
  
