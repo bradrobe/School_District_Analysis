@@ -8,31 +8,31 @@ Based on information obtained by the school board we were asked to make modifica
  
 ## Results:
 •	The district summary indicates slight increases in the % passing of reading, math and overall.
-o	Original District Summary:
-![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20District%20Summary.png)
+- Original District Summary:
+![this is an image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20District%20Summary.png)
  
-o	Revised District Summary:
- ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Revised%20District%20Summary.png)
+-	Revised District Summary:
+ ![this is an image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Revised%20District%20Summary.png)
 
 •	The school summary indicates dramatic increase for Thomas High School’s % passing of reading, math and overall.  The % overall passing increased from 65% to 90%.
-	Original School Summary:
+-	Original School Summary:
 
- ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20School%20Summary.png)
+ ![this is an image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Original%20School%20Summary.png)
  
-	Revised School Summary:
- ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Revised%20School%20Summary.png)
+-	Revised School Summary:
+ ![this is an image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/Revised%20School%20Summary.png)
 
 •	Replacing the ninth grader’s math and reading scores placed Thomas High School within the top five performing schools in the district.
-	Top five performing high schools:
- ![image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/School%20Performance.png)
+-	Top five performing high schools:
+ ![this is an image](https://github.com/bradrobe/School_District_Analysis/blob/main/PyCityShool_pics/School%20Performance.png)
  
 ## Results: cont’d
 
 •	Replacing the ninth-grade scores had following affect:
-	Math & reading scores by grade were slightly affect from replacing the scores of THS ninth grade students. 
-	Scores by School spending did not indicate any affect from replacing the scores of THS ninth grade students.
-	Scores by school size did not indicate any affect from replacing the scores of THS ninth grade students.
-	Scores by school type did not indicate any affect from replacing the scores of THS ninth grade students.
+-	Math & reading scores by grade were slightly affect from replacing the scores of THS ninth grade students. 
+-	Scores by School spending did not indicate any affect from replacing the scores of THS ninth grade students.
+-	Scores by school size did not indicate any affect from replacing the scores of THS ninth grade students.
+-	Scores by school type did not indicate any affect from replacing the scores of THS ninth grade students.
 ## Summary: 
 Removing the scores of Thomas High School ninth grade had minimal change to the district summary statistics.  Although the changes did have significant impact on the % overall passing for Thomas High School from 65% up to 90%.  This placed Thomas High School within the top fine performing schools in the district.
 
